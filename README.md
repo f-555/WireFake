@@ -3,7 +3,7 @@ Network Packet Sniffer and Network Protocol Analyzer with flow tracker
 Homework for UCAS Software and System Security 2023 Spring
 W.Wu
 
-This project refers to following information on the Internet：
+This project refers to following articles and resources：
 >https://blog.csdn.net/weixin_40774605/article/details/109259653?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522167975009116800225597812%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=167975009116800225597812&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~top_positive~default-1-109259653-null-null.blog_rank_default&utm_term=qthread&spm=1018.2226.3001.4450
 >
 >https://blog.csdn.net/jiesunliu3215/article/details/112276428

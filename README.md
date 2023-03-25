@@ -18,4 +18,6 @@ This project refers to following articles and resources：
 >
 >https://www.dgrt.cn/a/1240206.html
 >
->https://blog.csdn.net/weixin_30918415/article/details/96814830?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522167975034816800222821569%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=167975034816800222821569&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-2-96814830-null-null.142^v76^wechat,201^v4^add_ask,239^v2^insert_chatgpt&utm_term=pcap%E6%8A%93%E5%8C%85&spm=1018.2226.3001.4187
+>https://github.com/hurley25/sniffer
+>
+>https://github.com/lambdaconcept/usb2sniffer-qt
